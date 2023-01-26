@@ -11,9 +11,11 @@ I'm currently working on Blockchain, Smart Contract Development, DApps
 * 🧠  I'm learning Hyperledger Fabric & ReactJS
 
 <a href="https://www.github.com/TalhaYasinKeskin" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/TalhaYasinKeskin?logo=github&style=for-the-badge&color=444e59&labelColor=1c1917" /></a><a href="https://www.twitter.com/ElectricNgineer" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/TalhaYasinKeskin?logo=github&style=for-the-badge&color=444e59&labelColor=1c1917" /></a>
+
+<!-- <a href="https://www.twitter.com/ElectricNgineer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ElectricNgineer?logo=twitter&style=for-the-badge&color=444e59&labelColor=1c1917"
-/></a>
+/></a> -->
 
 ### Skills
 
